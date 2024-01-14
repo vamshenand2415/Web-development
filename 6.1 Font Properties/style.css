@@ -1,0 +1,29 @@
+body {
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 18px;
+}
+html
+{
+font-size:30px;
+}
+#h
+{
+  color:coral;
+}
+#fsize
+{font-size:2rem;
+}
+#fweight
+{font-weight:900;
+}
+#x
+{
+  text-align:right 
+}
+#ff
+{
+font-weight:400;
+font-size:normal;
+font-family:Caveat;
+}
